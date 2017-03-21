@@ -32,6 +32,13 @@
  </conbody>
  <related-links>
   <link href="intro-max-number-bulbs.dita#intro-max-number-bulbs" scope="local"/>
-  <link href="intro-low-power-networking.dita#intro-low-power-networking" scope="local"/>
+  <link href="intro-low-power-networking.dita#intro-low-power-networking" scope="local">
+   <desc>
+    <p/>
+   </desc>
+  </link>
  </related-links>
+ <concept id="id_abk_msv_hz" conref="c-disclaimer.dita#concept_btl_5qv_hz">
+  <title/>
+ </concept>
 </concept>
