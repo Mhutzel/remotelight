@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA 1.3 Troubleshooting//EN" "troubleshooting.dtd">
-<troubleshooting id="trouble_y44_34v_hz">
+<troubleshooting id="ts-batteries">
   <title>Troubleshooting</title>
   <troublebody>
     <condition>
@@ -9,10 +9,11 @@
     <troubleSolution>
       <cause>
         <title>Dead batteries</title>
-        <p>The </p>
+        <p>You will need AAA batteries to operate the <keyword keyref="product-name"/> </p>
       </cause>
-      <cause id="cause_gwq_jpv_hz">
+      <cause id="ts-lost">
         <title>Lost remote</title>
+        <p/>
       </cause>
       <remedy>
         <responsibleParty></responsibleParty>
