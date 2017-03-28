@@ -34,11 +34,10 @@
   <link href="intro-max-number-bulbs.dita#intro-max-number-bulbs" scope="local"/>
   <link href="intro-low-power-networking.dita#intro-low-power-networking" scope="local">
    <desc>
-    <p/>
+    <p conref="c-disclaimer.dita#c-disclaimer/legal"/>
    </desc>
   </link>
  </related-links>
- <concept id="id_abk_msv_hz" conref="c-disclaimer.dita#legal">
-  <title/>
- </concept>
+  
+ 
 </concept>
